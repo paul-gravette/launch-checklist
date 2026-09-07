@@ -27,8 +27,8 @@ A practical **distribution and launch** playbook for founders and operators — 
 ## Related
 
 - Site: [paulgravette.com](https://www.paulgravette.com)
-- Companion: [operator-playbook](https://github.com/paulgravette007/operator-playbook)
+- Companion: [operator-playbook](https://github.com/paul-gravette/operator-playbook)
 
 ---
 
-Maintained by [Paul Gravette](https://github.com/paulgravette007) / Gravette Capital.
+Maintained by [Paul Gravette](https://github.com/paul-gravette) / Gravette Capital.
