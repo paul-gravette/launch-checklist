@@ -33,3 +33,11 @@ A practical **distribution and launch** playbook for founders, CEOs, and PE port
 ---
 
 Maintained by [Paul Gravette](https://github.com/paul-gravette) / Gravette Capital.
+
+## Join the conversation
+
+Have a template you wish existed, or a better version of one here? Start a thread in [Discussions](https://github.com/paul-gravette/launch-checklist/discussions) or [request a template](https://github.com/paul-gravette/launch-checklist/issues/new?template=template-request.yml). Every post gets a reply.
+
+## Thanks to
+
+Readers whose ideas shape these templates are credited here. Yours could be first.
