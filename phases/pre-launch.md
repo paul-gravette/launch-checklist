@@ -27,3 +27,7 @@
 - [ ] Visuals (logo, OG image, short clip)
 - [ ] Email / DM / post copy drafted
 - [ ] Tracking links or UTM plan
+
+---
+
+More operator and investor notes from Paul Gravette at [paulgravette.com](https://www.paulgravette.com/?utm_source=github&utm_medium=template).

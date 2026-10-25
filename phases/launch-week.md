@@ -32,3 +32,7 @@
 - [ ] Snapshot metrics vs goal
 - [ ] Thank amplifiers publicly where appropriate
 - [ ] Schedule post-launch review
+
+---
+
+More operator and investor notes from Paul Gravette at [paulgravette.com](https://www.paulgravette.com/?utm_source=github&utm_medium=template).

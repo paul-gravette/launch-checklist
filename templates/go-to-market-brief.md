@@ -60,3 +60,7 @@ _Market, customer, or competitive reason this ships this quarter — not “we�
 - [ ] Post-launch review booked on calendar  
 
 **Kill criteria:** _We stop or pivot if ________________ by day ____._
+
+---
+
+More operator and investor notes from Paul Gravette at [paulgravette.com](https://www.paulgravette.com/?utm_source=github&utm_medium=template).
