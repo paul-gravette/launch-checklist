@@ -1,5 +1,7 @@
 # Launch Checklist
 
+> **Get one AI fix every week, plus a free starter lesson.** [Join the free newsletter](https://www.paulgravette.com/newsletter?utm_source=github&utm_medium=readme). Check your inbox and tap Confirm to join.
+
 A practical **distribution and launch** playbook for founders, CEOs, and PE portfolio teams — so “we shipped” actually means “someone found it.”
 
 ## Who this is for
