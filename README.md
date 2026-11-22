@@ -40,6 +40,8 @@ Maintained by [Paul Gravette](https://github.com/paul-gravette) / Gravette Capit
 
 Have a template you wish existed, or a better version of one here? Start a thread in [Discussions](https://github.com/paul-gravette/launch-checklist/discussions) or [request a template](https://github.com/paul-gravette/launch-checklist/issues/new?template=template-request.yml). Every post gets a reply.
 
+For short notes on running and backing companies, follow Paul on [LinkedIn](https://www.linkedin.com/in/paulgravette/) or [X](https://x.com/Paul_Gravette).
+
 ## Thanks to
 
 Readers whose ideas shape these templates are credited here. Yours could be first.
